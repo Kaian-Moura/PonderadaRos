@@ -4,7 +4,7 @@ Este projeto implementa uma pipeline completa de visão computacional para extra
 
 ## Vídeo explicando
 
-O vídeoe está hospedado no youtube, assista:
+O vídeo está hospedado no youtube, assista:
 
 [Assista ao vídeo aqui](https://youtu.be/fSlXXVam6D4
 )
