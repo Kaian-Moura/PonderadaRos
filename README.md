@@ -2,6 +2,13 @@
 
 Este projeto implementa uma pipeline completa de visão computacional para extrair contornos de uma imagem de um cachorro e reproduzi-los no simulador `turtlesim` do ROS 2.
 
+## Vídeo explicando
+
+O vídeoe está hospedado no youtube, assista:
+
+[Assista ao vídeo aqui](https://youtu.be/fSlXXVam6D4
+)
+
 ## Estrutura do Projeto
 
 - `process_dog.py`: Script de processamento de imagem (fora do pacote ROS).
